@@ -1,4 +1,4 @@
-# Voter documentation
+# Vter documentation
 
 _Share the love!_
 
