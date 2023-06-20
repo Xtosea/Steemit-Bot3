@@ -1,4 +1,4 @@
-<php include "public/index.php";>
+<php include "/index.php";>
 <!DOCTYPE html>
 <!-- Adapted from the off-canvas example -->
 <html lang="en">
@@ -18,7 +18,7 @@
     <link rel="icon" href="/favicon.png">
 
     <title>Dashboard - Voter</title>
-<a href="index.html">
+<php include "/index.php";>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
