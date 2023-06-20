@@ -1,4 +1,4 @@
-<php include "/index.php";>
+<php 
 <!DOCTYPE html>
 <!-- Adapted from the off-canvas example -->
 <html lang="en">
