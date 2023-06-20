@@ -132,6 +132,7 @@
   </body>
 </html>
 
+<!--
 # Voter
 <img src="/img/voter-banner-150.png" alt="Voter logo" style="width: 150px; height: 150px"/>
 
